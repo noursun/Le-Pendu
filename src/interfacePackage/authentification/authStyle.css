@@ -1,0 +1,31 @@
+.text-input {
+    -fx-background-insets: 0, 1;
+    -fx-background-radius: 15px;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Comic Sans MS";
+    -fx-text-fill: orangered;
+
+}
+.label{
+    -fx-font-size: 26px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Comic Sans MS";
+    -fx-text-fill: deeppink;
+}
+.button{
+    -fx-padding: 10 10 10 10;
+    -fx-background-radius: 8;
+    -fx-background-color: #ff69b1;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+    -fx-cursor: hand;
+    -fx-text-fill: #f0ffff;
+}
+.button:hover {
+    -fx-background-color: #dd6197;
+}
+.button:pressed {
+    -fx-background-color: #dda0bd;
+}
+

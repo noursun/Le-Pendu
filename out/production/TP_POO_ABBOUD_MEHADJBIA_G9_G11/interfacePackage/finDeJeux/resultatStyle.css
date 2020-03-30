@@ -1,0 +1,36 @@
+#gameOver{
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 40px;
+    -fx-font-weight: bold;
+    -fx-padding: 5 10 5 10;
+    -fx-text-fill: #c71585;
+}
+#resultat{
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 45px;
+    -fx-font-weight: bold;
+    -fx-padding: 5 10 5 10;
+    -fx-text-fill: #c33946;
+}
+.label{
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-padding: 5 10 5 10;
+    -fx-text-fill: #c38500;
+}
+.button{
+    -fx-padding: 10 40 10 40;
+    -fx-background-radius: 8;
+    -fx-background-color: #ff69b1;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+    -fx-cursor: hand;
+    -fx-text-fill: #f0ffff;
+}
+.button:hover {
+    -fx-background-color: #dd6197;
+}
+.button:pressed {
+    -fx-background-color: #dda0bd;
+}

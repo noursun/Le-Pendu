@@ -1,0 +1,30 @@
+SYNONYME;combat;bataille
+DEFINITION;Un ensemble de règles établies;protocole
+ANTONYME;universel;national
+SYNONYME;danseuse;ballerine
+DEFINITION;coller à l'aide du ruban adhésif de marque Scotch;scotcher
+SYNONYME;admirable;ravissant
+SYNONYME;pénalité;sanction
+ANTONYME;coûteux;gratuit
+ANTONYME;horrible;admirable
+DEFINITION;personne dépendante d'une drogue, d'une activité;addict
+DEFINITION;celui qui enlève une personne pour obtenir une rançon;kidnappeur
+SYNONYME;effrayant;terrifiant
+ANTONYME;terrifiant;rassurant
+DEFINITION;disposition à obéir;soumission
+DEFINITION;qui refuse obéissance à une autorité légitime;rebelle
+SYNONYME;sorcier;magicien
+SYNONYME;rival;concurrent
+ANTONYME;récompensement;punition
+ANTONYME;timide;courageux
+DEFINITION;d'utilisation pratique et intuitive;convivial
+SYNONYME;rythme;cadence
+DEFINITION;visiter des pages Web via un navigateur;surfer
+ANTONYME;travilleur;feignant
+SYNONYME;excuser;pardonner
+DEFINITION;frapper quelqu'un avec la main sur la joue;gifler
+DEFINITION;arriver au bout;aboutir
+ANTONYME;joie;chagrin
+SYNONYME;se moquer;ironiser
+ANTONYME;méfiant;confiant
+DEFINITION;assurance pleine et entière d'une chose;certitude

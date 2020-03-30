@@ -1,0 +1,35 @@
+#aide{
+    -fx-text-fill: #494bc3;
+    -fx-padding: 5 10 5 10;
+    -fx-font-size: 24px;
+    -fx-border-color: chocolate;
+    -fx-border-radius: 10 10 10 10 ;
+    -fx-font-family: "Comic Sans MS";
+}
+#titre{
+    -fx-text-fill: #c350a7;
+    -fx-font-size: 24px;
+    -fx-font-family: "Comic Sans MS";
+}
+.label{
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-padding: 5 10 5 10;
+    -fx-text-fill: #c36814;
+}
+.button{
+    -fx-padding: 10 40 10 40;
+    -fx-background-radius: 8;
+    -fx-background-color: #ff69b1;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+    -fx-cursor: hand;
+    -fx-text-fill: #f0ffff;
+}
+.button:hover {
+    -fx-background-color: #dd6197;
+}
+.button:pressed {
+    -fx-background-color: #dda0bd;
+}

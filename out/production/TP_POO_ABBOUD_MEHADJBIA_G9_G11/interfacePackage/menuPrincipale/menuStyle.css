@@ -1,0 +1,23 @@
+.label{
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Comic Sans MS";
+    -fx-text-fill: #c35300;
+}
+.button{
+    -fx-padding: 10 40 10 40;
+    -fx-background-image: url("../images/menu1.png");
+    -fx-pref-height: 63px;
+    -fx-pref-width: 294px;
+    -fx-highlight-fill: transparent;
+    -fx-background-insets: 0;
+    -fx-font-weight: bold;
+    -fx-fill:transparent;
+    -fx-font-size: 24px;
+    -fx-font-family: "Comic Sans MS";
+    -fx-cursor: hand;
+    -fx-text-fill: #eeffae;
+}
+.button:pressed{
+    -fx-opacity: 0.85;
+}
